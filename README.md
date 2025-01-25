@@ -1,2 +1,2 @@
 # Todo-App
-Creating a Todo App with delete , localstorage add functionality. | Tech / Html, css, javaScript
+Creating a Todo App with Crud Opreations. | Tech / Html, css, javaScript
